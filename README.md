@@ -10,4 +10,4 @@ The purpose of this project is to create a daily planner where the user can inpu
 -bootstrap
 -moment.js
 
-![Link to Daily Planner](https://user-images.githubusercontent.com/83896907/158040857-62281708-73cb-42b1-8a55-14c4e2282c6d.png)
+[Link to Daily Planner](https://bcheung827.github.io/daily-planner/)
