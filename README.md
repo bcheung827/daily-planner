@@ -7,7 +7,6 @@ The purpose of this project is to create a daily planner where the user can inpu
 -CSS
 -JavaScript
 -jQuery
--bootstrap
 -moment.js
 
 [Link to Daily Planner](https://bcheung827.github.io/daily-planner/)
