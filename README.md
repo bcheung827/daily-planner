@@ -11,3 +11,5 @@ The purpose of this project is to create a daily planner where the user can inpu
 -moment.js
 
 [Link to Daily Planner](https://bcheung827.github.io/daily-planner/)
+
+![Daily Planner](assets\images\05-third-party-apis-homework-demo.gif)
