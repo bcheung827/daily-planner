@@ -33,16 +33,6 @@ $("#3pm .description").val(localStorage.getItem("3pm"));
 $("#4pm .description").val(localStorage.getItem("4pm"));
 $("#5pm .description").val(localStorage.getItem("5pm"));
 
-
-var hour9 = '9am';
-var hour10 = '10am';
-var hour11 = '11am';
-var hour12 = '12pm';
-var hour1 = '1pm';
-var hour2 = '2pm';
-var hour3 = '3pm';
-var hour4 = '4pm';
-var hour5 = '5pm';
 var currentHour = moment().format('H');
 var description = document.querySelectorAll('.description');
 
