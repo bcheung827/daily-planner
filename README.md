@@ -11,4 +11,4 @@ The purpose of this project is to create a daily planner where the user can inpu
 
 [Link to Daily Planner](https://bcheung827.github.io/daily-planner/)
 
-![Daily Planner](assets\images\05-third-party-apis-homework-demo.gif)
+![Daily Planner](assets\images\05-third-party-apis-homework-demo.gif)!
